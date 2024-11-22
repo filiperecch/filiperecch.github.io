@@ -146,10 +146,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-analytics-4"
-  #google_analytics: "G-TPD00088H2"
-  google:
-    tracking_id          : "G-TPD00088H2"
+  #provider               :  "google-analytics-4"
+  google_analytics: "G-TPD00088H2"
+  #google:
+  #  tracking_id          : "G-TPD00088H2"
 
 
 # Reading Files
