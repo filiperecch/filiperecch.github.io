@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<embed src="https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf" type="application/pdf"/>
+
 {% include base_path %}
 
 Education
