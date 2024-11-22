@@ -160,7 +160,6 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - _pages/publications
   - .asset-cache
   - .bundle
   - .github
