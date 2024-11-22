@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Filipe Recch, a comparative policy researcher and educator focused on educational equity and governance. Currently, I am a Visiting Assistant Professor at the University of Pittsburgh’s School of Education. My work combines research and teaching to address challenges in education through evidence-based approaches.
+I am a political scientist whose work focuses on educational equity and governance. Currently, I am a Visiting Assistant Professor of Practice at the University of Pittsburgh’s School of Education. My research integrates political science and education to address policy coordination and inclusion challenges through evidence-based approaches.
 
-One of my key research projects involves using Natural Language Processing (NLP) to analyze diversity and inclusion in K-12 textbooks, with a focus on how curriculum content reflects and influences educational outcomes. Additionally, I examine how intergovernmental cooperation shapes educational equity in developing nations, with an emphasis on Brazil’s federalist system.
+One of my main research projects uses Natural Language Processing (NLP) and computational text analysis to examine diversity and inclusion in K-12 textbooks, focusing on how curriculum content reflects and shapes educational outcomes. I also study how intergovernmental cooperation influences educational equity in low- and middle-income countries, with a particular focus on Brazil.
 
-I earned a PhD in International Comparative Education from Stanford University and worked as a Postdoctoral Research and Policy Associate at the University of Oxford. My teaching and mentoring span research methodologies, data analysis, and policy evaluation, guiding students on projects ranging from international education to public policy
+Beyond education, my political science research explores the dynamics of presidential power and systemic barriers to minority representation in Latin America. This includes studying unilateral executive actions in polarized contexts and examining the challenges faced by marginalized groups in accessing political representation. 
+
+I earned a PhD in International Comparative Education from Stanford University and worked as a Postdoctoral Research and Policy Associate at the University of Oxford. I enjoy teaching and mentoring, particularly in areas such as research methodologies, data analysis, and policy evaluation. I have guided students on projects ranging from analyzing education policies in various countries to evaluating public policy initiatives more broadly.
