@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Filipe Recch"
   pronouns         : #"he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : #"Pittsburgh"
-  employer         : "School of Education - University of Pittsburgh"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Pittsburgh-PA"
+  employer         : "School of Education -\n University of Pittsburgh"
   uri              : # URL
   email            : "recch@pitt.edu" 
 
