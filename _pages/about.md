@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an international comparative education scholar whose work focuses on educational equity and governance. Currently, I am a Visiting Assistant Professor of Practice at the University of Pittsburgh’s School of Education. My research integrates political science and education to address policy coordination and inclusion challenges through evidence-based approaches.
+I am a political scientist whose work focuses on educational equity and governance. Currently, I am a Visiting Assistant Professor of Practice at the University of Pittsburgh’s School of Education. My research integrates political science and education to address policy coordination and inclusion challenges through evidence-based approaches.
 
 One of my main research projects uses Natural Language Processing (NLP) and computational text analysis to examine diversity and inclusion in K-12 textbooks, focusing on how curriculum content reflects and shapes educational outcomes. I also study how intergovernmental cooperation influences educational equity in low- and middle-income countries, with a particular focus on Brazil.
 
