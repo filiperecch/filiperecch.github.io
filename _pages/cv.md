@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf" type="application/pdf" width="100%" height="100%"/>
+<embed src="https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf" type="application/pdf" width="100%" height="100vh"/>
 
 you can [download the pdf](https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf) here.
 
