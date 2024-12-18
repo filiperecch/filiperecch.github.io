@@ -7,7 +7,15 @@ redirect_from:
   - /resume
 ---
 
-<embed src="http://docs.google.com/viewer?url=[https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf]&embedded=true" width="100%" height="100vh"/>
+<html>
+  <head>
+    <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width">
+  </head>
+  <body>
+    <object data="https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
+  </body>
+</html>
 
 you can [download the pdf](https://filiperecch.github.io/files/CV_Filipe_Recch_NOV_24.pdf) here.
 
