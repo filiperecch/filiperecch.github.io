@@ -1,7 +1,7 @@
 ---
 title: "The power of the administrative decisions of Latin American presidents."
 collection: publications
-category: "Book Chapters"
+category: book_chapters
 permalink: /publication/2023-01-01-LA-presidents
 excerpt: 
 date: 2023-01-01
